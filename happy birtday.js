@@ -5,7 +5,7 @@ let w = (c.width = window.innerWidth),
 (hh = h / 2),
   (opts = {
     // change the text in here //
-    strings: ["HAPPY", "BIRTHDAY", "MUTANU", "I LOVE YOU!"],
+    strings: ["HAPPY", "BIRTHDAY", "WAMBO", "MORE WINS AHEAD IN JESUS' NAME!"],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
@@ -399,3 +399,4 @@ window.addEventListener("resize", function () {
 
   ctx.font = opts.charSize + "px Verdana";
 });
+
